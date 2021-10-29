@@ -5,10 +5,6 @@ Como executar via ide Junit:
 
 2.1 Ou executar o projeto como Junit
 
-Como executar via cucumber feature:
-1. selecionar o arquivo em src/test/resources/feature/
-2. executar como cucumber feature
-
 Como executar via linha de comando utilizando maven(necessario ter o maven configurado na maquina):
 1. Abrir o terminal no diretorio do projeto
 2. Executar o comando: mvn test
